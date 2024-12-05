@@ -27,3 +27,20 @@ The mission is to unearth the most advantageous approach for the company. Based 
 - **Null Hypothesis (H₀):** There is no significant difference in the number of purchases between the control group (Page A) and the test group (Page B).
 - **Alternative Hypothesis (H₁):** Moving to a new landing page version (Page B) produce an increase in the time that users spend on the new version
 
+##  <span style="color:crimson"> A/B TEST Landing Page Conclusion</span>
+
+###  <span style="color:orange">Results</span>
+
+- P-Value:  0.2815
+- Fail to reject the null hypothesis (H₀): The means are not significantly different.
+- Mean Difference: 0.3567
+- 95% Confidence Interval: (-3.7695, 4.4829)
+
+###  <span style="color:blue">Conclusion</span>
+Based on the results, there is no statistically significant difference in the time spent by users on the website between the control group (Page A) and the test group (Page B).
+
+The p-value of 0.2815 exceeds the typical significance threshold of 0.05, meaning we fail to reject the null hypothesis in both cases.
+
+Additionally, the mean difference and 95% confidence intervals for both metrics include zero, further indicating that the changes in the test group do not significantly impact user behavior compared to the control group.
+
+As there is no meaningful difference in the time spent on Page B versus Page A, it suggests that Page B is not more effective at engaging potential customers.
