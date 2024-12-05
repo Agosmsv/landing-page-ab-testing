@@ -44,3 +44,5 @@ The p-value of 0.2815 exceeds the typical significance threshold of 0.05, meanin
 Additionally, the mean difference and 95% confidence intervals for both metrics include zero, further indicating that the changes in the test group do not significantly impact user behavior compared to the control group.
 
 As there is no meaningful difference in the time spent on Page B versus Page A, it suggests that Page B is not more effective at engaging potential customers.
+
+![Distribution Chart](./distribution_chart.png "Distribution Chart")
